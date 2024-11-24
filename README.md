@@ -42,7 +42,7 @@ To use QuickLearn locally, follow these steps:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/QuickLearn.git  
+   https://github.com/prathmesh-sargar/QuickLearn.git
    ```  
 
 2. **Open the project**:  
@@ -67,7 +67,7 @@ To use QuickLearn locally, follow these steps:
 - The bot logic is handled through Botpress, and it’s embedded into the app to interact with users.
 
  You can customize the bot’s responses by modifying the Botpress flow and content through the Botpress interface.
-For more information about Botpress and how to modify the bot, visit Botpress Documentation.
+For more information about Botpress and how to modify the bot, visit **Botpress Documentation.**
 
 ## 🌟 Contribution  
 
@@ -104,7 +104,6 @@ Have feedback or ideas? Feel free to reach out via [prathmeshtech27@gmail.com](m
 ### 💡 Let’s simplify learning for students with QuickLearn!  
 
 --- 
-
-This version is tailored for a static HTML, CSS, and JavaScript project without any backend or database integration.
+.
 
         
