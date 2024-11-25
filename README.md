@@ -6,6 +6,8 @@
 QuickLearn is a web application designed to make studying easier for first-year engineering students at DYPCET. Built with simplicity in mind, QuickLearn provides essential resources like subject notes, previous year question papers, and an interactive bot for instant assistance—all using just HTML, CSS, and JavaScript.  
 
 ---
+![project1](https://github.com/user-attachments/assets/7a059eba-2b90-45cb-b581-c37dd30a6f72)
+
 
 ## 🚀 Features  
 
